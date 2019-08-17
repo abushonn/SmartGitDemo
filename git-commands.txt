@@ -32,7 +32,7 @@ Switched to branch 'master'
 
 # In master !!!
 
-$ git merge new-branch
+$ git merge br-studies
 
 
  
