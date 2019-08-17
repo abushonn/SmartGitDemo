@@ -1,0 +1,11 @@
+git init
+git config --global user.name "abushonn"
+git config --global user.email "abu.shonn.2010.a@gmail.com"
+
+git clone https://github.com/abushonn/SmartGitDemo.git
+
+
+git add a1.txt
+git reset a1.txt
+
+git commit git-commands.txt
