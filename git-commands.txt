@@ -38,4 +38,6 @@ Switched to branch 'master'
 
 $ git merge br-studies
 
+git branch -d br-studies
+
 
