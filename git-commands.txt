@@ -21,9 +21,21 @@ git branch -a
 
 git push origin master
 
-git checkout -b br-studies 
 
-git checkout br-studies
+git checkout -b br-studies
+
 git checkout master
+git checkout br-studies
+
+# In br-studies !!!
+# ...develop some code...
+$ git add –A
+$ git commit –m "Some commit message"
+$ git checkout master
+Switched to branch 'master'
+
+# In master !!!
+
+$ git merge br-studies
 
 
