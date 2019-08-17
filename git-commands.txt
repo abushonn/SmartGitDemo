@@ -11,3 +11,9 @@ git reset a1.txt
 git commit git-commands.txt
 
 git commit -m "Commit first version of git-commands.txt"
+
+git remote -v
+git branch -a
+
+
+git push origin master 
