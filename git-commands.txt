@@ -16,4 +16,11 @@ git remote -v
 git branch -a
 
 
-git push origin master 
+git push origin master
+
+git checkout -b br-studies 
+
+git checkout br-studies
+git checkout master
+
+
