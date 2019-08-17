@@ -4,9 +4,12 @@ git config --global user.email "abu.shonn.2010.a@gmail.com"
 
 git clone https://github.com/abushonn/SmartGitDemo.git
 
+git status 
 
 git add a1.txt
 git reset a1.txt
+
+git add .
 
 git commit git-commands.txt
 
