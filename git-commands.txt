@@ -40,4 +40,6 @@ $ git merge br-studies
 
 git branch -d br-studies
 
-
+git diff
+git reset
+git revert
