@@ -43,3 +43,7 @@ git branch -d br-studies
 git diff
 git reset
 git revert
+
+git log
+git tag -a v1.0 -m "Releasing version v1.0"
+git tag -d  v1.0
