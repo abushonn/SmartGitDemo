@@ -9,3 +9,5 @@ git add a1.txt
 git reset a1.txt
 
 git commit git-commands.txt
+
+git commit -m "Commit first version of git-commands.txt"
