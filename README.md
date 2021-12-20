@@ -1,3 +1,3 @@
-# SmartGitDemo
-SmartGitDemo
-SmartGit demo based on https://www.youtube.com/watch?v=Aj-sZ2JWnj4
+# GoLang TODO List Application
+
+GoLang TODO List Application
